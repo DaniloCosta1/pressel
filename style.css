@@ -141,7 +141,7 @@
     h2{
         font-size: 50px;
     }
-
+    /*_________________________________________*/
     .topo{
         
         display: flex;
@@ -157,7 +157,7 @@
         
         margin: 2%;
     }
-
+    /*_________________________________________*/
     .imagens{
         
         background-color: #e8f0f5;
@@ -167,42 +167,46 @@
     .imagens img{
         height: 350px;
     }
-
+    /*_________________________________________*/
     .botao{
         background-color: #2d66b3;
         border-radius: 5px;
         margin: 2%;
-        padding-top: 100px;
-        padding-bottom: 100px;
+        padding-top: 50px;
+        padding-bottom: 50px;
         text-align: center;
     }
 
     .botao button{
-        background-color: #2d66b3;
-        font-size: 25px;
-        border: 2px solid white;
-        border-radius: 7px;
+        background-color: #fcb22e;
+        font-size: 35px;
+        border-radius: 10px;
         padding: 10px;
     }
 
     .botao button:hover{
-        background-color: #0e4c9e;
-        font-size: 25px;
-        border: 2px solid rgb(240, 231, 110);
-        border-radius: 5px;
+        background-color: #f3cc88;
+        font-size: 35px;
+        padding: 5px;
+        border-radius: 10px;
         padding: 20px;
     }
 
     .botao a{
-        color: white;
+        color: black;
+        font-weight: bold;
         text-decoration: none;
 
     }
-
+    /*_________________________________________*/
     .fda{
         
         margin: 2%;
         
+    }
+
+    .fda img{
+        height: 150px;
     }
 
     .garantia{
@@ -210,43 +214,40 @@
         margin: 2%;
     }
 
+    .garantia img{
+        height: 200px;
+    }
+    /*_________________________________________*/
     .botaocta{
         background-color: #2d66b3;
         border-radius: 5px;
         margin: 2%;
-        padding-top: 100px;
-        padding-bottom: 100px;
+        padding-top: 50px;
+        padding-bottom: 50px;
         text-align: center;
-
     }
 
     .botaocta button{
-        background-color: #2d66b3;
-        font-size: 25px;
-        border: 2px solid white;
-        border-radius: 7px;
+        background-color: #fcb22e;
+        font-size: 35px;
+        border-radius: 10px;
         padding: 10px;
     }
 
     .botaocta button:hover{
-        background-color: #0e4c9e;
-        font-size: 25px;
-        border: 2px solid rgb(240, 231, 110);
-        border-radius: 5px;
+        background-color: #f3cc88;
+        font-size: 35px;
+        padding: 5px;
+        border-radius: 10px;
         padding: 20px;
     }
 
     .botaocta a{
-        color: white;
+        color: black;
         text-decoration: none;
 
     }
-    .botaocta a{
-        color: white;
-        text-decoration: none;
-
-    }
-
+    /*_________________________________________*/
 
 
     .politica{
