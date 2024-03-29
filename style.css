@@ -17,7 +17,7 @@ header{
 
 .headline{
     border: 1px solid red;
-    margin: 2px;
+    margin: 2%;
 }
 
 .imagens{
@@ -68,9 +68,39 @@ header{
 }
 
 .botaocta{
-    border: 2px solid black;
+    background-color: #0e4c9e;
     margin: 2%;
+    font-size: 25px;
+    border: 2px solid rgb(240, 231, 110);
+    border-radius: 5px;
     padding: 20px;
+
+}
+
+.botaocta button{
+    background-color: #2d66b3;
+    font-size: 25px;
+    border: 2px solid white;
+    border-radius: 7px;
+    padding: 10px;
+}
+
+.botaocta button:hover{
+    background-color: #0e4c9e;
+    font-size: 25px;
+    border: 2px solid rgb(240, 231, 110);
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.botaocta a{
+    color: white;
+    text-decoration: none;
+
+}
+.botaocta a{
+    color: white;
+    text-decoration: none;
 
 }
 
