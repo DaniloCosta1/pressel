@@ -254,6 +254,8 @@
     .politica{
         border: 2px solid black;
         margin: 2%;
+        padding-bottom: 2px;
+        margin-bottom: 1px;
     }
 }
 
